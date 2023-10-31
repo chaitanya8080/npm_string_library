@@ -1,0 +1,1 @@
+# npm_string_library
